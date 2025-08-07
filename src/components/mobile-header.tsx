@@ -29,8 +29,14 @@ import { useAuth } from "@/hooks/use-auth";
 const themes = [
     { name: "Islamic Green", class: "theme-default" },
     { name: "Islamic Yellow", class: "theme-islamic-yellow" },
+    { name: "Islamic Blue", class: "theme-islamic-blue" },
+    { name: "Islamic Purple", class: "theme-islamic-purple" },
+    { name: "Islamic Rose", class: "theme-islamic-rose" },
+    { name: "Islamic Teal", class: "theme-islamic-teal" },
     { name: "Light", class: "light" },
     { name: "Dark", class: "dark" },
+    { name: "Midnight", class: "theme-midnight" },
+    { name: "Ocean", class: "theme-ocean" },
 ];
 
 
